@@ -16,7 +16,7 @@ Then, load lib/index.js.
 Or, import uuidjs.
 
 ```JavaScript
-const UUID = require("lonly-uuidjs")
+import UUID from "lonly-uuidjs"
 ```
 
 ## USAGE EXAMPLES
