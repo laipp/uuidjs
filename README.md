@@ -1,5 +1,7 @@
 # uuidjs
 
+[![Build Status](https://travis-ci.org/lonly197/uuidjs.svg?branch=master)](https://travis-ci.org/lonly197/uuidjs)
+
 UUID.js - A JavaScript library to generate RFC 4122 compliant UUID
 
 ## INSTALL
