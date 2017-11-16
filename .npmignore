@@ -44,3 +44,5 @@ config/sequelize.json
 .nyc_output/
 docs
 dump.rdb
+
+.nyc_output
